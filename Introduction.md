@@ -1,4 +1,4 @@
-# Terraform Learning Projects – Divya Sharma
+# Terraform Learning Projects 
 
 Welcome to my Terraform learning repository.  
 This repo contains all the hands-on projects I create while learning Terraform — from basic setups to advanced infrastructure automation on AWS.
