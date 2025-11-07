@@ -1,5 +1,5 @@
 README Section — Day 2: Terraform Modules, Variables, and Outputs
----
+--
 
 ## Day 2: Working with Modules, Variables, and Outputs in Terraform
 
