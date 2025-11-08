@@ -8,5 +8,13 @@ override.tf
 override.tf.json
 *.override.tf
 *.override.tf.json
-# macOS system file
+
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
+# System / Editor files
+.vscode/
 .DS_Store
+
